@@ -1,0 +1,1 @@
+//Configuración del tema Define los colores y estilos de la app.

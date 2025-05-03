@@ -1,0 +1,33 @@
+name: riega_me
+description: Proyecto de gestión de plantas con Flutter y Firebase
+version: 1.0.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.13.0
+  cloud_firestore: ^5.6.7
+  firebase_auth: ^5.5.3
+
+  # State management
+  provider: ^6.1.2
+
+  # Otros
+  cupertino_icons: ^1.0.6
+  uuid: ^4.0.0
+  flutter_lints: ^2.0.0
+  logger: ^1.1.0
+
+dev_dependencies:
+flutter_test:
+  sdk: flutter
+flutter_lints: ^2.0.3
+logger: ^1.1.0
+
+flutter:
+  uses-material-design: true

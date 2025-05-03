@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549067874062",
+    "project_id": "riega-me",
+    "storage_bucket": "riega-me.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549067874062:android:51c086914dc362a68f015f",
+        "android_client_info": {
+          "package_name": "com.example.riega_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqN90aGHeHDTLbMEh16c1YVABH_XYlAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

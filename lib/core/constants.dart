@@ -1,0 +1,1 @@
+//Constantes globales Almacena textos, URLs o claves API.
