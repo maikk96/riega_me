@@ -51,11 +51,11 @@ lib/
    Asegúrate de tener configurados los entornos deseados (android, ios, web).
 
 4. Ejecuta la app:
-
+```
   flutter run -d chrome           # para web
   flutter run -d ios              # para simulador iPhone
   flutter run -d android          # para emulador Android
-
+```
   📌 Estado actual
 
 ✅ Interfaz funcional
