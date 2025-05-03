@@ -23,8 +23,6 @@
 
 ## 📁 Estructura del proyecto
 
-## 📁 Estructura del proyecto
-
 ```
 lib/
   main.dart                → Punto de entrada
