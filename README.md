@@ -23,6 +23,9 @@
 
 ## 📁 Estructura del proyecto
 
+## 📁 Estructura del proyecto
+
+```
 lib/
   main.dart                → Punto de entrada
   app.dart                 → Configuración de rutas y providers
@@ -31,6 +34,7 @@ lib/
   providers/               → Gestión de estado (auth, plantas)
   screens/                 → Pantallas de la app (login, registro, home…)
   services/                → Acceso a Firebase y otros servicios
+```
 
 ## 🚀 Cómo ejecutar el proyecto
 
