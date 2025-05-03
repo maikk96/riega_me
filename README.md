@@ -21,15 +21,16 @@
 - [ML Kit (Firebase)](https://firebase.google.com/products/ml) – Reconocimiento de especies vegetales.
 - [Cloud Firestore](https://firebase.google.com/docs/firestore) – Base de datos en tiempo real.
 
-## 🔧 Estructura del proyecto
+## 📁 Estructura del proyecto
+
 lib/
-├── main.dart                # Punto de entrada
-├── app.dart                 # Configuración de rutas y providers
-├── screens/                 # Pantallas de la app (login, registro, home…)
-├── models/                  # Modelos de datos (plantas, usuarios)
-├── services/                # Lógica de acceso a Firebase y otros servicios
-├── providers/              # Gestión de estado (auth, plantas)
-└── firebase_options.dart    # Configuración generada por FlutterFire CLI
+  main.dart                → Punto de entrada
+  app.dart                 → Configuración de rutas y providers
+  firebase_options.dart    → Configuración generada por FlutterFire CLI
+  models/                  → Modelos de datos (plantas, usuarios)
+  providers/               → Gestión de estado (auth, plantas)
+  screens/                 → Pantallas de la app (login, registro, home…)
+  services/                → Acceso a Firebase y otros servicios
 
 ## 🚀 Cómo ejecutar el proyecto
 
